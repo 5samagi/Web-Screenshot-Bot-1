@@ -5,4 +5,4 @@ tgcrypto
 pyppeteer
 requests
 cachetools
-load_dotenv
+python-dotenv
