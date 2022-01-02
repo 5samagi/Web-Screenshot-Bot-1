@@ -4,3 +4,4 @@ wheel
 tgcrypto
 pyppeteer
 requests
+cachetools
